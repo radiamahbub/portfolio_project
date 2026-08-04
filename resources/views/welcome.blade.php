@@ -43,18 +43,18 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>19 Feb 1998</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+880 1987029855</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Dhaka, Bangladesh</span></li>
+                  <li><i class="bi bi-diamond-fill"></i> <strong>Birthday:</strong> <span>19th Feb 1998</span></li>
+                  <li><i class="bi bi-diamond-fill"></i> <strong>Website:</strong> <span>www.example.com</span></li>
+                  <li><i class="bi bi-diamond-fill"></i> <strong>Phone:</strong> <span>+880 1987029855</span></li>
+                  <li><i class="bi bi-diamond-fill"></i> <strong>City:</strong> <span>Dhaka, Bangladesh</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>28</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>iamr.adia2629@gmail.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
+                  <li><i class="bi bi-diamond-fill"></i> <strong>Age:</strong> <span>28</span></li>
+                  <li><i class="bi bi-diamond-fill"></i> <strong>Degree:</strong> <span>B.Sc. in CSE</span></li>
+                  <li><i class="bi bi-diamond-fill"></i> <strong>Email:</strong> <span>iamr.adia2629@gmail.com</span></li>
+                  <li><i class="bi bi-diamond-fill"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
               </div>
             </div>
@@ -280,6 +280,7 @@
                 <li><strong>Features:</strong> Property listings, client management, booking, payment tracking.</li>
                 </ul>
 
+                <p class="text-center">❝ These are the top three. Have More ❞</p>
             </div><!-- Edn Resume Item -->
 
             <h3 class="resume-title">Professional Experience</h3>
