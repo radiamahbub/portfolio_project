@@ -40,7 +40,7 @@ Upcoming Features:
 ## 📦 Installation Guide
 
 1. Clone the repository
-git clone https://github.com/Radia-19/portfolio_project.git
+git clone https://github.com/radiamahbub/portfolio_project.git
 2. Navigate to project folder
 cd portfolio_project
 3. Install dependencies
@@ -71,7 +71,7 @@ The purpose of this project is to showcase my frontend development skills and de
 
 **Radia Mahbub**
 Aspiring Full-Stack Developer (Laravel)
-GitHub: https://github.com/Radia-19
+GitHub: https://github.com/radiamahbub
 
 ---
 
